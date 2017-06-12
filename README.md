@@ -36,3 +36,6 @@ cd react-viewer
 npm install # <-- not needed, already done for us
 npm start # <-- launches the server, opens the browser to http://localhost:3000
 ```
+
+## Good Luck!
+<img max-width=400 src="https://media3.giphy.com/media/goiauJeRxagM/giphy.gif">
