@@ -23,7 +23,7 @@ At a minium your site should have:
 | Client Route | description           | JSON Endpoint  |
 | -------------|-------------| -----|
 | `/`      | subreddits#index      |  n/a (just hardcode a list of subreddits) |
-| `/funny` | subreddits#show     |  GET `https://www.reddit.com/r/ProgrammerHumor.json` |
+| `/programmerhumor` | subreddits#show     |  GET `https://www.reddit.com/r/programmerhumor.json` |
 | `/reactjs` | subreddits#show   |  GET `https://www.reddit.com/r/reactjs.json` |
 
 > Please note that all reddit endpoints use **HTTPS**. You will get an error if you use just unsecured HTTP.
