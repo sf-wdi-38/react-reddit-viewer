@@ -1,6 +1,6 @@
 # React Reddit Viewer
 
-Your goal is to to use AJAX to consume Reddit's JSON api and display it using React. You will not create a backend or use a databse (reddit _is_ our database).
+Your goal is to to use AJAX to consume Reddit's JSON api and display it using React. You will not create a backend or use a database (reddit _is_ our database).
 
 (Reddit is like the armpit of the internet, so we're so sorry about that).
 
