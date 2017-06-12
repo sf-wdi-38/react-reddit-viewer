@@ -16,6 +16,7 @@ At a minium your site should have:
  
 Bonus: Allow a user to navigate to *any* subreddit by typing the (correct) name into a "search" box. E.g. if I type "funny" into the box, I see the top results for the [r/funny subreddit](https://www.reddit.com/r/funny.json).
 
+Super-Bonus: Active subreddits will change quickly! Can you check for updates and automatically re-render the page when there are changes? This pattern is often called "polling" (i.e. checking for changes every 20 seconds).
 
 ## Client Routes & Reddit Endpoints
 
