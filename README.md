@@ -38,5 +38,10 @@ npm install # <-- not needed, already done for us
 npm start # <-- launches the server, opens the browser to http://localhost:3000
 ```
 
+Dependencies you may eventually need:
+
+* `react-router@3.0.0`
+* `jquery-ajax`
+
 ## Good Luck!
 <img max-width=400 src="https://media3.giphy.com/media/goiauJeRxagM/giphy.gif">
